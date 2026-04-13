@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyStatic/MyStatic.iml" filepath="$PROJECT_DIR$/MyStatic/MyStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyString/MyString.iml" filepath="$PROJECT_DIR$/MyString/MyString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTest/MyTest.iml" filepath="$PROJECT_DIR$/MyTest/MyTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mycontainer/Mycontainer.iml" filepath="$PROJECT_DIR$/Mycontainer/Mycontainer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mymap/Mymap.iml" filepath="$PROJECT_DIR$/Mymap/Mymap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic code.iml" filepath="$PROJECT_DIR$/basic code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02-code/day02-code.iml" filepath="$PROJECT_DIR$/day02-code/day02-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03-code/day03-code.iml" filepath="$PROJECT_DIR$/day03-code/day03-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day4-code/day4-code.iml" filepath="$PROJECT_DIR$/day4-code/day4-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day5-code/day5-code.iml" filepath="$PROJECT_DIR$/day5-code/day5-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day6-code/day6-code.iml" filepath="$PROJECT_DIR$/day6-code/day6-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day7-code/day7-code.iml" filepath="$PROJECT_DIR$/day7-code/day7-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day8-code/day8-code.iml" filepath="$PROJECT_DIR$/day8-code/day8-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapi/myapi.iml" filepath="$PROJECT_DIR$/myapi/myapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myexception/myexception.iml" filepath="$PROJECT_DIR$/myexception/myexception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfile/myfile.iml" filepath="$PROJECT_DIR$/myfile/myfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfunction/myfunction.iml" filepath="$PROJECT_DIR$/myfunction/myfunction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myio/myio.iml" filepath="$PROJECT_DIR$/myio/myio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myreflect/myreflect.iml" filepath="$PROJECT_DIR$/myreflect/myreflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysocketnet/mysocketnet.iml" filepath="$PROJECT_DIR$/mysocketnet/mysocketnet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mystream/mystream.iml" filepath="$PROJECT_DIR$/mystream/mystream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mythread/mythread.iml" filepath="$PROJECT_DIR$/mythread/mythread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mythreadpool/mythreadpool.iml" filepath="$PROJECT_DIR$/mythreadpool/mythreadpool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myvessel/myvessel.iml" filepath="$PROJECT_DIR$/myvessel/myvessel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/puzzlegame/puzzlegame.iml" filepath="$PROJECT_DIR$/puzzlegame/puzzlegame.iml" />
+    </modules>
+  </component>
+</project>
