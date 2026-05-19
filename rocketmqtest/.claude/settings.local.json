@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mvn exec:java -Dexec.mainClass=\"simple.Producer\" -Dexec.classpathScope=compile -Dmaven.compiler.encoding=UTF-8)",
+      "Bash(mvn exec:java -Dexec.mainClass=\"simple.Producer\" -Dexec.classpathScope=compile -Dmaven.compiler.encoding=UTF-8 -Dexec.args=\"--add-opens java.base/java.nio=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.util=ALL-UNNAMED\")",
+      "Bash(MAVEN_OPTS=\"--add-opens java.base/java.nio=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.util=ALL-UNNAMED\" mvn exec:java -Dexec.mainClass=\"simple.Producer\" -Dexec.classpathScope=compile)",
+      "Bash(jps -l)",
+      "Bash(tasklist)",
+      "Bash(kill 53072)",
+      "Bash(taskkill //PID 53072)",
+      "Bash(taskkill //F //PID 53072)",
+      "Bash(cmd //c \"set ROCKETMQ_HOME=E:\\\\RocketMq\\\\rocketmq-all-5.4.0-bin-release && bin\\\\mqbroker.cmd -c conf/broker.conf\")",
+      "Bash(export ROCKETMQ_HOME=\"E:/RocketMq/rocketmq-all-5.4.0-bin-release\")",
+      "Bash(cmd //c \"set ROCKETMQ_HOME=E:\\\\\\\\RocketMq\\\\\\\\rocketmq-all-5.4.0-bin-release && call mqbroker.cmd -c conf/broker.conf\")",
+      "Bash(cmd.exe //c \"set ROCKETMQ_HOME=E:\\\\RocketMq\\\\rocketmq-all-5.4.0-bin-release && cd /d E:\\\\RocketMq\\\\rocketmq-all-5.4.0-bin-release\\\\bin && mqbroker.cmd -c ..\\\\conf\\\\broker.conf\")",
+      "Bash(ROCKETMQ_HOME=\"E:/RocketMq/rocketmq-all-5.4.0-bin-release\" bash \"E:/RocketMq/rocketmq-all-5.4.0-bin-release/bin/mqbroker\" -c \"E:/RocketMq/rocketmq-all-5.4.0-bin-release/conf/broker.conf\")",
+      "Bash(MAVEN_OPTS=\"--add-opens java.base/java.nio=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.util=ALL-UNNAMED\" mvn exec:java -Dexec.mainClass=\"simple.Producer\" -Dexec.classpathScope=compile -q)",
+      "Bash(mvn exec:java -Dexec.mainClass=\"simple.Producer\" -Dexec.classpathScope=compile -q)",
+      "Bash(mkdir -p \"e:/code/basic code/rocketmqtest/.idea/runConfigurations\")"
+    ],
+    "additionalDirectories": [
+      "e:\\code\\basic code\\rocketmqtest\\.idea"
+    ]
+  }
+}
