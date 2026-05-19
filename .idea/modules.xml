@@ -26,7 +26,6 @@
       <module fileurl="file://$PROJECT_DIR$/mythread/mythread.iml" filepath="$PROJECT_DIR$/mythread/mythread.iml" />
       <module fileurl="file://$PROJECT_DIR$/mythreadpool/mythreadpool.iml" filepath="$PROJECT_DIR$/mythreadpool/mythreadpool.iml" />
       <module fileurl="file://$PROJECT_DIR$/myvessel/myvessel.iml" filepath="$PROJECT_DIR$/myvessel/myvessel.iml" />
-      <module fileurl="file://$PROJECT_DIR$/puzzlegame/puzzlegame.iml" filepath="$PROJECT_DIR$/puzzlegame/puzzlegame.iml" />
     </modules>
   </component>
 </project>
