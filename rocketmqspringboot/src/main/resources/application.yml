@@ -1,0 +1,8 @@
+spring.application.name: rocketmqspringboot
+
+rocketmq:
+  name-server: localhost:9876
+  producer:
+    group: group1
+server:
+  port: 8081
